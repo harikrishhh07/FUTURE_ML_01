@@ -180,3 +180,9 @@ Through this project, I gained practical experience in data preprocessing, featu
 **Rishika Srivastava**
 
 Machine Learning Internship Project – Future Interns
+
+---
+
+## Contributors
+
+- **[harikrishhh07](https://github.com/harikrishhh07)** - Project maintainer and contributor
