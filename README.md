@@ -177,7 +177,7 @@ Through this project, I gained practical experience in data preprocessing, featu
 
 ## Author
 
-**Rishika Srivastava**
+**E Harikrishna**
 
 Machine Learning Internship Project – Future Interns
 
